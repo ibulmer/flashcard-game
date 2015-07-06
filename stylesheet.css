@@ -1,0 +1,49 @@
+body{
+  background-color: #F6484B;
+}
+
+#question{
+  font-size:200%;
+  text-align:center;
+  position:relative;
+  width: 100px;
+  left:500px;
+}
+
+
+#answer{
+  font-size:200%;
+  text-align:center;
+  position:relative;
+  width: 100px;
+  left:500px;
+}
+
+#new_question{
+  left:500px;
+  font-size:100%;
+  text-align:center;
+  position:relative;
+  width: 100px;
+  left:500px;
+}
+form{
+  font-size:200%;
+  text-align:center;
+  position:relative;
+  width: 100px;
+  left:500px;
+}
+
+h1{
+  font-size:500%;
+  color:blue;
+  text-align:center;
+}
+
+#loser{
+  font-size:500%;
+  color:blue;
+  text-align:center;
+}
+
